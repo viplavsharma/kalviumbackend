@@ -1,2 +1,2 @@
 # kalviumbackend
-This is the backend task of Kalvium
+This is the backend task of Kalvium assessment test.
